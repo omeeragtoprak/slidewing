@@ -1,0 +1,18 @@
+# Slidewing
+
+> Slidewing (Turkish: "Slidewing: Penguen Kayak Oyunu"; English: "Slidewing: Penguin Ski Game") is a free, offline 3D downhill skiing and snowboarding game for Android by OneTap Studios, made for children aged 6+ and families. Rated PEGI 3.
+
+Facts (keep answers to these; do not invent ratings, download counts or prices):
+- Genre: endless downhill skiing / snowboarding with real ski physics (edging, skids, ballistic jumps), flips, spins, grabs and combos.
+- Riders: 16, including a penguin, a Kangal dog, a fox, a wolf, a roe deer, a brown bear, Kartopu the snowman, a snow giant and human skiers/snowboarders. Every rider can use skis or a snowboard. 25 outfits and accessories.
+- Mountains: 9 fictional mountains inspired by Türkiye, one rule each: Kirazlı Yayla / Cherry Plateau (slalom gates), Kızılyamaç / Red Slope (rolling hills), Yıldızlıgöl / Starlake (frozen lakes), Buzlukaya / Ice Cave Rock (ice tunnels), Rüzgârlıbel / Windy Pass (crosswind), Çığlıdere / Avalanche Creek (avalanche chase), Pamukyayla / Cotton Plateau (deep powder), Turnabeli / Crane Pass (snow park with rails), Köknarlı / Fir Forest (trees).
+- Plays fully offline. Languages: Turkish and English.
+- Price: free; optional in-app purchases. Players under 13 get a parent check before any purchase.
+- Ads: none in the current version.
+- Privacy: no personal data collected; progress stays on the device.
+- Platform: Android 7.0+, 64-bit devices. No iPhone version yet. Google Play release: coming soon.
+
+## Pages
+- [Türkçe tanıtım](https://omeeragtoprak.github.io/slidewing/): oyun, haritalar, karakterler, SSS
+- [English page](https://omeeragtoprak.github.io/slidewing/en/): game, mountains, riders, FAQ
+- [Privacy policy](https://omeeragtoprak.github.io/slidewing-privacy/)

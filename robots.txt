@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omeeragtoprak.github.io/slidewing/sitemap.xml
